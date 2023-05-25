@@ -1,0 +1,165 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Emailable\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-19 07:55+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.8.2\n"
+"X-Domain: emlvld"
+
+#: includes/class-emlvld-public.php:72
+#, php-format
+msgid "%sERROR%s: %s"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:84
+msgid "Accept-All"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:62
+msgid "Allowed Filters"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:27
+msgid "Allowed States"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:19
+msgid "API Key"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:11
+msgid "Authentication"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:97
+msgid "Custom Alert Messages"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:100
+#, php-format
+msgid ""
+"Custom messages will not be supported in some Wordpress plugins (Woocommerce,"
+" WordPress Forms, Jetpack Form, etc.) that use the %sis_email%s function for "
+"front-end validation."
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:98
+msgid ""
+"Customize the alert messages that will be shown if user type email addresses "
+"you do not want to be submitted in the form."
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:35
+msgid "Deliverable"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:137
+msgid "Did You Mean"
+msgstr ""
+
+#: emailable.php:108
+msgid "Did you mean [EMAIL]?"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:91
+#: includes/admin/forms/emlvld-settings.php:125
+msgid "Disposable"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-emlvld-admin.php:38
+msgid "Emailable"
+msgstr ""
+
+#. Author of the plugin
+msgid "Emailable, LLC"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:70
+#: includes/admin/forms/emlvld-settings.php:119
+msgid "Free"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://emailable.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/emailable"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:99
+msgid "IMPORTANT:"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:14
+#, php-format
+msgid ""
+"In order to get your Emailable API key, sign up for an account %shere%s. We "
+"strongly suggest that you %sactivate auto-refill%s to avoid running out of "
+"credits."
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:21
+msgid "live_XXXXXXXXXXXXXXXXXXXX"
+msgstr ""
+
+#: emailable.php:105
+msgid "Please enter another valid email address"
+msgstr ""
+
+#: emailable.php:103
+msgid "Please enter another valid email address."
+msgstr ""
+
+#: emailable.php:106
+msgid "Please enter your business email address."
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:42
+msgid "Risky"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:77
+#: includes/admin/forms/emlvld-settings.php:113
+msgid "Role"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:144
+msgid "Save Changes"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This WP plugin aims to validate emails on all WP forms to make sure they "
+"actually exist before submission. It will use Emailable's API and must work "
+"on all the major WordPress forms."
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:49
+#: includes/admin/forms/emlvld-settings.php:107
+msgid "Undeliverable"
+msgstr ""
+
+#: includes/admin/forms/emlvld-settings.php:56
+#: includes/admin/forms/emlvld-settings.php:131
+msgid "Unknown"
+msgstr ""
+
+#: emailable.php:107
+msgid "We do not accept a role or group email address."
+msgstr ""
+
+#: emailable.php:104
+msgid "We do not accept disposable emails."
+msgstr ""
